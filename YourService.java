@@ -309,6 +309,6 @@ public class YourService extends KiboRpcService {
 }
 
 
-// video: 6:05
+// 
 
 
